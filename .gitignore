@@ -1,0 +1,7 @@
+/.idea
+/.gradle
+/*.iml
+/logs
+/docs
+/db
+/lib
